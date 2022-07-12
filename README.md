@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Saroopashree/Saroopashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Saroopa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroopashree&show_icons=true&theme=nightowl&hide=contribs&count_private=true&custom_title=Saroopa's%20GitHub%20stats)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Saroopa...
+
+💜 Loves cloud☁️ more than localhost🏡  
+🛠 Is interested in builing **High performance serverless apps**  
+⚡️ Is highly motivated in developing tools that make dev's life easier  
+💬 Engages in conversations about Automations(DRY rules!👑), Cloud, DevOps, Machine Learning and Math  
+📚 Is always eager to learn new things
+
+---
+
+![Top Langs](https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Saroopashree&theme=nightowl&layout=compact&hide=C&custom_title=Top%20Languages)

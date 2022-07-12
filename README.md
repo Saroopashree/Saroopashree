@@ -1,6 +1,10 @@
 ### Hey there 👋
 
+<div style="display:grid; place-items:center;">
+
 ![Saroopa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroopashree&show_icons=true&theme=nightowl&hide=contribs&count_private=true&custom_title=Saroopa's%20GitHub%20stats)
+
+</div>
 
 ---
 
@@ -14,4 +18,8 @@
 
 ---
 
+<div style="display:grid; place-items:center;">
+
 ![Top Langs](https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Saroopashree&theme=nightowl&layout=compact&hide=C&custom_title=Top%20Languages)
+
+</div>

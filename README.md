@@ -11,10 +11,10 @@
 ### Saroopa...
 
 💜 Loves cloud☁️ more than localhost🏡  
-🛠 Is interested in builing **High performance serverless apps**  
+🛠 Is interested in building **High performance serverless apps**  
 ⚡️ Is highly motivated in developing tools that make dev's life easier  
-💬 Engages in conversations about Automations(DRY rules!👑), Cloud, DevOps, Machine Learning and Math  
-📚 Is always eager to learn new things
+💬 Engages in conversations about Cloud, DevOps, Machine Learning, Automations and Math (Even Physics xD)  
+📚 Always loves to learn new stuff
 
 ---
 

@@ -13,8 +13,8 @@
 💜 Loves cloud☁️ more than localhost🏡  
 🛠 Is interested in building **High performance serverless apps**  
 ⚡️ Is highly motivated in developing tools that make developers' life easy  
-💬 Engages in conversations about Cloud, DevOps, Machine Learning, Automations and Math (Even Physics!)  
-📚 Always loves to learning
+💬 Engages in conversations about Cloud, DevOps, Data Science, Automations and Math (Even Physics!)  
+📚 Loves learning new things
 
 ---
 

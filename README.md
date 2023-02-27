@@ -11,10 +11,10 @@
 ### Saroopa...
 
 💜 Loves cloud☁️ more than localhost🏡  
-🛠 Is interested in building **High performance serverless apps**  
-⚡️ Is highly motivated in developing tools that make developers' life easy  
-💬 Engages in conversations about Cloud, DevOps, Data Science, Automations and Math (Even Physics!)  
-📚 Loves learning new things
+🛠 Is interested in builing **High performance serverless apps**  
+⚡️ Is highly motivated in developing tools that make dev's life easier  
+💬 Engages in conversations about Automations, Cloud, DevOps, Machine Learning and Math  
+📚 Is always eager to learn new things
 
 ---
 
@@ -23,3 +23,5 @@
 ![Top Langs](https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Saroopashree&theme=nightowl&layout=compact&hide=C&custom_title=Top%20Languages)
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=Saroopashree&color=blueviolet&style=flat-square&label=Saroopa's%20Github%20Profile%20Views)
